@@ -1,9 +1,9 @@
 function log(){
-    window.location.href="universe/universe.html";
+    window.location.href="universe.html";
 }
 function sup(){
-    window.location.href="universe/发电.html";
+    window.location.href="support.html";
 }
 function dir(){
-    window.location.href=goUrl
+    window.location.href="diary.html";
 }
