@@ -4,6 +4,6 @@ function log(){
 function sup(){
     window.location.href="support.html";
 }
-function dir(){
+function dia(){
     window.location.href="diary.html";
 }
