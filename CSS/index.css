@@ -11,7 +11,7 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background: url(../images/ground.jpg) no-repeat;
+    background: url(../images/background.webp) no-repeat;
     background-size: cover;
 }
 
